@@ -19,7 +19,7 @@ This repository contains the design files and project descriptions for the tasks
 
 - **Overview**: Designed a food delivery mobile app focusing on ease of browsing, order flow, and user satisfaction.
 - **Key Screens**: Home, Menu, Add to Cart, Checkout, Order Tracker
-- **File**: [`food-delivery-app.fig`](./food-delivery-app.fig)
+- **File**: [`food-delivery-app.fig`](./FoodApp.fig)
 - 🔗 [Live Prototype Preview](https://www.figma.com/proto/9qnz7lYaccvL6cgXhis3w5/Food-App?page-id=0%3A1&team_id=1500146434903127203&node-id=5-17&starting-point-node-id=5%3A17&t=BpSgU81Re36ytrCB-1)
 
 ---
